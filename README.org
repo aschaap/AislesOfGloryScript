@@ -1,11 +1,11 @@
 * Hauler: Aisles of Glory Automation
-A simple shell script that opens a browser, plays through the ``Hauler: Aisles of Glory'' game, and enters one's PC Optimum card number.
+A simple shell script that opens a browser, plays through the ``[[https://aislesofglory.nofrills.ca/][Hauler: Aisles of Glory]]'' game, and enters one's PC Optimum card number.
 
-Depends on `xdotool` and a browser of choice.
+Depends on ~xdotool~ and a browser of choice.
 
-Tested on Linux with the Falkon browser in KDE Plasma 5 on X.org.
+Tested on Linux with the [[https://www.falkon.org/][Falkon]] browser in KDE Plasma 5 on X.org.
 
-Created as a way to learn some basic `xdotool` functionality.
+Created as a way to learn some basic ~xdotool~ functionality.
 
 * License
 MIT
